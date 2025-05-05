@@ -1,4 +1,4 @@
-<h1>Este é o meu primeiro projeto de desenvolvimento web, desenvolvido com HTML, CSS e JavaScript, hospedado no GitHub Pages.</h1>
+<h1>Este é o meu primeiro projeto de desenvolvimento web, desenvolvido com HTML, CSS e hospedado no GitHub Pages.</h1>
 
 
 <h2>Descrição</h2>
